@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   cxcloud-deployment-chart:
   - apiVersion: v1
+    appVersion: 0.1.2
+    created: "2020-11-10T09:34:05.289793+02:00"
+    description: A Helm chart for deploying microservices
+    digest: 242159413350e646611ad6d6895833ec3b5aaabadd3f6989e16a62fc4d26031e
+    name: cxcloud-deployment-chart
+    urls:
+    - https://github.com/cxcloud/helm-charts/raw/master/cxcloud-deployment-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
     appVersion: 0.1.1
-    created: "2020-11-06T12:55:06.78846+02:00"
+    created: "2020-11-10T09:34:05.289195+02:00"
     description: A Helm chart for deploying microservices
     digest: d5aeb3c801b28c4a98eb47f1e0be335249b042bbe6d8a1a8807cf35d1089b33a
     name: cxcloud-deployment-chart
@@ -12,7 +21,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2020-11-06T12:55:06.787824+02:00"
+    created: "2020-11-10T09:34:05.287956+02:00"
     description: A Helm chart for deploying microservices
     digest: 979c5b6f85bccc1fe292c1f81891dfe0d135b41c64e6829ba7c3ffc3df8a5980
     name: cxcloud-deployment-chart
@@ -29,4 +38,4 @@ entries:
     urls:
     - https://github.com/cxcloud/helm-fluentd-kinesis-firehose/archive/v0.1.0.tar.gz
     version: 0.1.0
-generated: "2020-11-06T12:55:06.784361+02:00"
+generated: "2020-11-10T09:34:05.286098+02:00"
