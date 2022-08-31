@@ -40,6 +40,14 @@ Commit and push the changes. Make sure to update the repo with `helm repo update
 
 *Happy Helming!*
 
+## About Releases
+
+| Version | Description |
+| --- | --- |
+| 0.2.0 | Ingress apiVersion networking.k8s.io/v1. Requires Kubernetes 1.19 |
+| 0.1.6 | Ingress apiVersion extensions/v1beta1  |
+
+
 ## License
 
 CX Cloud and its components are released under the MIT license.
