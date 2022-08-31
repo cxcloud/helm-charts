@@ -22,12 +22,12 @@ helm repo update
 
 Make sure that the Helm chart changes has been done and that the Chart.yaml file is updated in the Helm chart repository to publish.
 
-In this example we'll use helm-deploy-service that has been cloned locally to `../helm-deploy-service`.
+In this example we'll use helm-deploy-service that has been cloned locally to `../cxcloud-deployment-chart`.
 
 Create the package with
 
 ```bash
-helm package ../helm-deploy-service
+helm package ../cxcloud-deployment-chart
 ```
 
 Update the index file with
