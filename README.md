@@ -44,6 +44,7 @@ Commit and push the changes. Make sure to update the repo with `helm repo update
 
 | Version | Description |
 | --- | --- |
+| 0.2.1 | Fixed Ingress for v1 |
 | 0.2.0 | Ingress apiVersion networking.k8s.io/v1. Requires Kubernetes 1.19 |
 | 0.1.6 | WAFv2 support |
 | 0.1.5 | Assign service account to deployment|
