@@ -2,8 +2,17 @@ apiVersion: v1
 entries:
   cxcloud-deployment-chart:
   - apiVersion: v1
+    appVersion: 0.2.3
+    created: "2023-11-03T13:56:01.909365+02:00"
+    description: A Helm chart for deploying microservices
+    digest: c2cf4b39de9c0a85fb1c2d299d880f133c813716c42273a8f7ba15999951108d
+    name: cxcloud-deployment-chart
+    urls:
+    - https://github.com/cxcloud/helm-charts/raw/master/cxcloud-deployment-chart-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v1
     appVersion: 0.2.2
-    created: "2023-03-01T11:41:17.879536+02:00"
+    created: "2023-11-03T13:56:01.908727+02:00"
     description: A Helm chart for deploying microservices
     digest: 18457c786ea1d60fa302a794dd2251d079debe3cde4c6192e5f7c54ae9342c3d
     name: cxcloud-deployment-chart
@@ -12,7 +21,7 @@ entries:
     version: 0.2.2
   - apiVersion: v1
     appVersion: 0.2.1
-    created: "2023-03-01T11:41:17.878972+02:00"
+    created: "2023-11-03T13:56:01.904327+02:00"
     description: A Helm chart for deploying microservices
     digest: 9633d32afe572cc10a54230ae0da0f6ace456c4a5b48c564247f62530f8d2807
     name: cxcloud-deployment-chart
@@ -21,7 +30,7 @@ entries:
     version: 0.2.1
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2023-03-01T11:41:17.877231+02:00"
+    created: "2023-11-03T13:56:01.899446+02:00"
     description: A Helm chart for deploying microservices
     digest: 11e6c856b796f003c4730982ecce0d71b5e6dbe21d76d9f60e6019ec9f9a1b78
     name: cxcloud-deployment-chart
@@ -30,7 +39,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.6
-    created: "2023-03-01T11:41:17.876784+02:00"
+    created: "2023-11-03T13:56:01.893348+02:00"
     description: A Helm chart for deploying microservices
     digest: 90204c280f47c7407275e757fb2a763f436255d7fe4217f25c17287531c34bfe
     name: cxcloud-deployment-chart
@@ -39,7 +48,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 0.1.5
-    created: "2023-03-01T11:41:17.87635+02:00"
+    created: "2023-11-03T13:56:01.889605+02:00"
     description: A Helm chart for deploying microservices
     digest: c2985959fe24d9f1bf8e66fc28704b3dde72982d28d054fe74cd900d19884a14
     name: cxcloud-deployment-chart
@@ -48,7 +57,7 @@ entries:
     version: 0.1.5
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2023-03-01T11:41:17.875943+02:00"
+    created: "2023-11-03T13:56:01.885096+02:00"
     description: A Helm chart for deploying microservices
     digest: cceabc1642a21f6414a19ef477c42dda2a9a9a94ea28cd1d16cc2e453d4460d1
     name: cxcloud-deployment-chart
@@ -57,7 +66,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: 0.1.3
-    created: "2023-03-01T11:41:17.875514+02:00"
+    created: "2023-11-03T13:56:01.876039+02:00"
     description: A Helm chart for deploying microservices
     digest: 94ec717955f6cee7661e9433ff050f2874ff603ec8a8cc5440426c802504a17b
     name: cxcloud-deployment-chart
@@ -66,7 +75,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: 0.1.2
-    created: "2023-03-01T11:41:17.875072+02:00"
+    created: "2023-11-03T13:56:01.870243+02:00"
     description: A Helm chart for deploying microservices
     digest: 242159413350e646611ad6d6895833ec3b5aaabadd3f6989e16a62fc4d26031e
     name: cxcloud-deployment-chart
@@ -75,7 +84,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2023-03-01T11:41:17.874582+02:00"
+    created: "2023-11-03T13:56:01.862078+02:00"
     description: A Helm chart for deploying microservices
     digest: d5aeb3c801b28c4a98eb47f1e0be335249b042bbe6d8a1a8807cf35d1089b33a
     name: cxcloud-deployment-chart
@@ -84,7 +93,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2023-03-01T11:41:17.874081+02:00"
+    created: "2023-11-03T13:56:01.85492+02:00"
     description: A Helm chart for deploying microservices
     digest: 979c5b6f85bccc1fe292c1f81891dfe0d135b41c64e6829ba7c3ffc3df8a5980
     name: cxcloud-deployment-chart
@@ -101,4 +110,4 @@ entries:
     urls:
     - https://github.com/cxcloud/helm-fluentd-kinesis-firehose/archive/v0.1.0.tar.gz
     version: 0.1.0
-generated: "2023-03-01T11:41:17.873414+02:00"
+generated: "2023-11-03T13:56:01.844771+02:00"
